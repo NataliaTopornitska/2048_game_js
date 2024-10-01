@@ -13,7 +13,7 @@ This project is a 2048 game implementation, showcasing the use of modern web tec
 
 ### Instructions to Run Locally 
 
-1. Clone the repository from GitHub: **-git clone** <br/>
+1. Clone the repository from GitHub: **-git clone** https://github.com/NataliaTopornitska/2048_game_js<br/>
 2. Navigate to the project directory: **-cd repository**<br/>
 3. Install dependencies: **-npm install**<br/>
 4. Start the project: **-npm start** or **-npm run dev**
