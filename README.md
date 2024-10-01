@@ -9,7 +9,7 @@ This project is a 2048 game implementation, showcasing the use of modern web tec
 **Git:** For version control.<br/>
 **SCSS:** CSS preprocessor.
 
-- [DEMO LINK]()
+- [DEMO LINK](https://nataliatopornitska.github.io/2048_game_js/)
 
 ### Instructions to Run Locally 
 
