@@ -1,3 +1,5 @@
+- [DEMO LINK](https://nataliatopornitska.github.io/2048_game_js/)
+
 ### Project Description
 
 This project is a 2048 game implementation, showcasing the use of modern web technologies to create an engaging and interactive experience. The game is developed using JavaScript, styled with SCSS, and follows best practices for code quality and version control.
@@ -8,8 +10,6 @@ This project is a 2048 game implementation, showcasing the use of modern web tec
 **ESLint:** For static code analysis in JavaScript.<br/>
 **Git:** For version control.<br/>
 **SCSS:** CSS preprocessor.
-
-- [DEMO LINK](https://nataliatopornitska.github.io/2048_game_js/)
 
 ### Instructions to Run Locally 
 
