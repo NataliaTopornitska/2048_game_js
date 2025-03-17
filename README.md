@@ -11,6 +11,13 @@ This project is a 2048 game implementation, showcasing the use of modern web tec
 **Git:** For version control.<br/>
 **SCSS:** CSS preprocessor.
 
+### How to Play
+- Start the Game: Tiles with values of 2 and 4 will randomly appear on the grid.
+- Move the Tiles: Use your keyboard's arrow keys (↑, ↓, ←, →) to move all the tiles in the chosen direction.
+- Merge Tiles: When two tiles of the same number collide, they will merge into a single tile with their values combined (e.g., 2 + 2 = 4).
+- Winning the Game: Reach the tile with the value 2048 to win!
+- Losing the Game: The game ends if no more valid moves can be made.
+
 ### Instructions to Run Locally 
 
 1. Clone the repository from GitHub: **-git clone** https://github.com/NataliaTopornitska/2048_game_js<br/>
